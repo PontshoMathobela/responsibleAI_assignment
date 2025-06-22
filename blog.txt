@@ -1,0 +1,27 @@
+Case 1: The Hiring Bot with a Bias Problem
+
+Imagine a company that thinks it's being super efficient by using an AI hiring bot to screen job applicants. The bot uses past hiring data to score applicants and automatically rejects or shortlists candidates. Sounds good, right? Well, there's a catch. The bot has been quietly rejecting more female applicants who have career gaps – like those who took time off for parenting or caregiving.
+
+This is problematic for a few reasons:
+
+- The AI is learning from historical hiring data, which likely includes biased human decisions. If the company previously hired more men and penalized gaps, the bot just repeats that – but faster and with a digital poker face.
+- Applicants don't know why they were rejected. Was it the gap? The school? Their gender?
+- This disproportionately impacts women and caregivers, reinforcing gender inequality in the workplace.
+
+So, how can we improve this? One way is to re-train the AI with bias-aware data. We need to include diverse training data that values non-linear career paths and explicitly de-bias the model. We should also offer transparent explanations to candidates – e.g., "Your application wasn't shortlisted because your experience doesn't match X requirement," not "Sorry, just no."
+
+Case 2: The Proctoring AI with a Twitchy Eye
+
+Now, let's talk about a school that rolled out an AI proctoring tool to keep online exams "fair." The AI tracks students through their webcam, watching eye movements, head turns, and facial expressions. If you look away too much, it flags you as "cheating."
+
+This is problematic for a few reasons:
+
+- Neurodivergent students might move or look around more – and boom, flagged.
+- Cultural differences can also play a role. In some cultures, direct eye contact is rude or uncomfortable. So, students acting naturally are unfairly penalized.
+- Constant webcam surveillance is intense and creepy. Are students even giving informed consent?
+
+So, how can we improve this? One way is to add human review + context-aware design. We shouldn't let AI make final decisions solo. We should use it as a signal, not a verdict – and involve trained humans in reviewing flags. We should also allow students to self-identify if they have conditions that affect behavior, so the system adapts rather than accuses.
+
+The Bottom Line
+
+Being a responsible AI inspector isn't just about pointing fingers. It's about spotting where tech goes sideways and helping it get back on track. AI should amplify fairness, not automate discrimination. Let's build systems that are smart and kind. Just because it's AI doesn't mean it's right.
